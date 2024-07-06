@@ -30,12 +30,16 @@ class _ExpensesState extends State<Expenses> {
         category: Category.work),
   ];
 
+  void _openAddExpenseOverlay(){
+    showModalBottomSheet(context: context, builder: (ctx) => const Text('Modal Bot6tom sheet'),);
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Money YOU'),
-        actions: [IconButton(onPressed: () {}, icon: const Icon(Icons.add))],
+        actions: [IconButton(onPressed: _openAddExpenseOverlay, icon: const Icon(Icons.add))],
       ),
       body: Column(
         children: [
