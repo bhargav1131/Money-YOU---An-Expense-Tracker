@@ -9,4 +9,10 @@
 
 2.
 ![alt text](assets/Screenshot_20240710-215403_expense_tracker.png)
+
+3.
+![alt text](assets/dark1.png)
+
+4.
+![alt text](assets/dark2.png)
 ---
