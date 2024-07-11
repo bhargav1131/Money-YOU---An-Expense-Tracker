@@ -5,14 +5,12 @@
 ## A few screenshots (not finalised yet)
 
 1. 
-![alt text](assets/Screenshot_20240710-215358_expense_tracker.png)
-
+![alt text](assets/light-1.png)
 2.
 ![alt text](assets/Screenshot_20240710-215403_expense_tracker.png)
 
 3.
-![alt text](assets/dark1.png)
-
+![alt text](assets/dark-1.png)
 4.
 ![alt text](assets/dark2.png)
 ---

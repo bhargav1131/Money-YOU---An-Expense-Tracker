@@ -45,7 +45,7 @@ void main() {
                   color: kColorScheme.onSecondaryContainer),
             )),
 
-    themeMode: ThemeMode.dark,
+    themeMode: ThemeMode.system,
     home: const Expenses(), // from file expenses.dart
   ));
 }
