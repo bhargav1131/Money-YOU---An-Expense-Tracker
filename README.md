@@ -2,7 +2,7 @@
 
 - The app is under Development. Stay tune for future upgrades
 
-## A few screenshots (not finalised yet)
+## A few screenshots
 
 1. 
 ![alt text](assets/light-1.png)
