@@ -9,13 +9,8 @@ var kDarkColorScheme = ColorScheme.fromSeed(
     brightness: Brightness.dark,
     seedColor: const Color.fromARGB(255, 45, 160, 209));
 void main() {
-  WidgetsFlutterBinding.ensureInitialized();
-  SystemChrome.setPreferredOrientations([
-    DeviceOrientation.portraitUp
-  ]).then((fn){
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-
     darkTheme: ThemeData.dark().copyWith(
       colorScheme: kDarkColorScheme,
       cardTheme: const CardTheme().copyWith(
@@ -53,5 +48,4 @@ void main() {
     themeMode: ThemeMode.system,
     home: const Expenses(), // from file expenses.dart
   ));
-});
 }
