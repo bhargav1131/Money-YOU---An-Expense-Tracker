@@ -1,6 +1,5 @@
 # A personal Expense Tracker application built in Flutter
 
-- The app is under Development. Stay tune for future upgrades
 
 ## A few screenshots
 
